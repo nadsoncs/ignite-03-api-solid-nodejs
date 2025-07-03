@@ -44,3 +44,4 @@ npm i prisma -D
 npm i @prisma/client
 npm i bcryptjs
 npm i -D @types/bcryptjs
+npm i vitest vite-tsconfig-paths -D

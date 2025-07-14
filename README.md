@@ -1,3 +1,7 @@
+# Comandos
+
+npx prisma migrate dev
+
 # App
 
 GymPass Style App
